@@ -6,8 +6,6 @@ layout: home
 ---
 Welcome to my website!
 
-[Photome]
-
-![Photome](https://github.com/DrBenC/drbenc.github.io/blob/main/docs/assets/mugshot.jpg?raw=true)
+![Photome](https://github.com/DrBenC/drbenc.github.io/blob/main/docs/assets/mugshot.gif?raw=true)
 
 ---
