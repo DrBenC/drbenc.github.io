@@ -28,7 +28,8 @@ plugins:
   - jekyll-feed
   - jekyll-remote-theme
 
-remote_theme: vszhub/not-pure-poole
+theme: minima
+#remote_theme: vszhub/not-pure-poole
 
 # Exclude from processing.
 # The following items will not be processed, by default.
