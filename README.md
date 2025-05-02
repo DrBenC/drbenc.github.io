@@ -1,2 +1,2 @@
-# drbenc.github.io
-Personal Website
+# Dr Ben Coulson
+Personal Website - mostly using this to learn how to use GitHub pages!
