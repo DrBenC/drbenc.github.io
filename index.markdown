@@ -8,4 +8,6 @@ Welcome to my website!
 
 [Photome]
 
-![Photome](/drbenc.github.io/docs/mugshot.jpg)
+![Photome](https://github.com/DrBenC/drbenc.github.io/blob/main/docs/assets/mugshot.jpg?raw=true)
+
+---
