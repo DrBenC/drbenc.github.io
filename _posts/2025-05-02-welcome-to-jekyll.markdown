@@ -1,29 +1,24 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2025-05-02 10:39:21 +0100
-categories: jekyll update
+title:  "I made a website!"
+date:   2025-05-02 11:45:61 +0100
+categories: website update
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+So, I've decided to put together a website. Mostly this is to get to grips with how GitHub webpages work, but I'm actually quite excited at the prospect!
 
-Jekyll requires blog post files to be named according to the following format:
+I suspect I will update this very, very infrequently, but let's see how we go. Apparently you can put bits of code in here - that makes sense, it's GitHub! 
 
-`YEAR-MONTH-DAY-title.MARKUP`
+{% highlight python %}
+def hello(name):
+  print(f"Hello, {name}!")
 
-Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
-
-Jekyll also offers powerful support for code snippets:
-
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
+if name != None:
+  hello(name)
+else:
+  hello("friend")
 {% endhighlight %}
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+Have a look at my [GitHub] if you want to see some bad code I did several years ago, or check out my [YouTube] page.
 
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+[Github]: https://github.com/DrBenC/
+[YouTube]: https://www.youtube.com/@DrBenChem
