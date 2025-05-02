@@ -4,3 +4,8 @@
 
 layout: home
 ---
+Welcome to my website!
+
+[Photo of me]
+
+![Photo of me](\drbenc.github.io\docs\assets\mugshot.jpg)

@@ -24,7 +24,7 @@ description: Personal website for Dr Ben Coulson
 
 
 # Build settings
-theme: minima
+theme: not-pure-poole
 plugins:
   - jekyll-feed
 
