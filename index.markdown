@@ -6,6 +6,6 @@ layout: home
 ---
 Welcome to my website!
 
-[Photo of me]
+[Photome]
 
-![Photo of me](\drbenc.github.io\docs\assets\mugshot.jpg)
+![Photome](/drbenc.github.io/docs/assets/mugshot.jpg)
