@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "I made a website!"
-date:   2025-05-02 11:45:61 +0100
+date:   2025-05-02 11:45:59 +0100
 categories: website update
 ---
 So, I've decided to put together a website. Mostly this is to get to grips with how GitHub webpages work, but I'm actually quite excited at the prospect!
