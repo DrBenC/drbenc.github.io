@@ -24,9 +24,11 @@ description: Personal website for Dr Ben Coulson
 
 
 # Build settings
-theme: not-pure-poole-0.1.0
 plugins:
   - jekyll-feed
+  - jekyll-remote-theme
+
+remote_theme: vszhub/not-pure-poole
 
 # Exclude from processing.
 # The following items will not be processed, by default.
