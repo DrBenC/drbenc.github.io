@@ -30,6 +30,8 @@ plugins:
 
 theme: minima
 #remote_theme: vszhub/not-pure-poole
+paginate: 5
+paginate_path: /page:5/
 
 # Exclude from processing.
 # The following items will not be processed, by default.
