@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I'm a crystallographer and I love to tinker with electronics, code in Python, and I love a bit of CAD and 3D printing.
+I'm a crystallographer and I also tinker with electronics, code in Python, and I love a bit of CAD and 3D printing.
 
 I also love Lego, climbing, Dark Souls and cycling.
 
